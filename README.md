@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/amanullah1739/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/amanullah1739/LeetCode-/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/amanullah1739/LeetCode-/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
