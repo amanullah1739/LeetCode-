@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanullah1739/LeetCode-/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amanullah1739/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amanullah1739/LeetCode-/tree/master/0035-search-insert-position) |
 | [0228-summary-ranges](https://github.com/amanullah1739/LeetCode-/tree/master/0228-summary-ranges) |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/amanullah1739/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/amanullah1739/LeetCode-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
