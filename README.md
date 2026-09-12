@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amanullah1739/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/amanullah1739/LeetCode-/tree/master/0228-summary-ranges) |
 | [0704-binary-search](https://github.com/amanullah1739/LeetCode-/tree/master/0704-binary-search) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/amanullah1739/LeetCode-/tree/master/0367-valid-perfect-square) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
