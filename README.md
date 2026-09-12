@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/amanullah1739/LeetCode-/tree/master/0228-summary-ranges) |
 | [0704-binary-search](https://github.com/amanullah1739/LeetCode-/tree/master/0704-binary-search) |
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
+| [2574-left-and-right-sum-differences](https://github.com/amanullah1739/LeetCode-/tree/master/2574-left-and-right-sum-differences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amanullah1739/LeetCode-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/amanullah1739/LeetCode-/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/amanullah1739/LeetCode-/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
